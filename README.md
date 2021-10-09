@@ -1,6 +1,6 @@
 # go-api-example
 
-This example REST API according to given question
+This is the instagram api according to the questions
 
 # Sample-Input-Output
 
