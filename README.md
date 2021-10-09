@@ -6,20 +6,20 @@ This example REST API according to given question
 
 Route : /posts/users/?id=uid3
 
-![alt text](https://res.cloudinary.com/blog2345/image/upload/v1633752213/Screenshot_from_2021-10-09_09-32-38_nmffew.png)
+![alt text](https://res.cloudinary.com/blog2345/image/upload/v1633752666/Screenshot_from_2021-10-09_09-40-50_zhcxbj.png)
 
 Route : /posts/?id=p2
 
-![alt text](https://res.cloudinary.com/blog2345/image/upload/v1633752213/Screenshot_from_2021-10-09_09-32-26_yl6dqa.png)
+![alt text](https://res.cloudinary.com/blog2345/image/upload/v1633752666/Screenshot_from_2021-10-09_09-40-48_ra24mx.png)
 
 Route : /users/?id=uidw
 
-![alt text](https://res.cloudinary.com/blog2345/image/upload/v1633752213/Screenshot_from_2021-10-09_09-32-20_w7dmva.png)
+![alt text](https://res.cloudinary.com/blog2345/image/upload/v1633752666/Screenshot_from_2021-10-09_09-40-44_d5glng.png)
 
 Route : /posts
 
-![alt text](https://res.cloudinary.com/blog2345/image/upload/v1633752213/Screenshot_from_2021-10-09_09-32-23_rvkuw2.png)
+![alt text](https://res.cloudinary.com/blog2345/image/upload/v1633752666/Screenshot_from_2021-10-09_09-40-46_oxhqcq.png)
 
 Route : /user
 
-![alt text](https://res.cloudinary.com/blog2345/image/upload/v1633752213/Screenshot_from_2021-10-09_09-32-14_dklnlv.png)
+![alt text](https://res.cloudinary.com/blog2345/image/upload/v1633752666/Screenshot_from_2021-10-09_09-40-41_mkk8k6.png)
