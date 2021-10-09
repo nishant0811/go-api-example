@@ -4,7 +4,7 @@ This is the instagram api according to the questions
 
 # Sample-Input-Output
 
-Route : /posts/users/uid3
+Route : /posts/users/uidw
 
 ![alt text](https://res.cloudinary.com/blog2345/image/upload/v1633784843/Screenshot_from_2021-10-09_18-34-48_mdvisn.png)
 
